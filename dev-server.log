@@ -1,0 +1,819 @@
+
+> mielekitchen@0.1.0 dev
+> next dev
+
+▲ Next.js 16.2.7 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.1.50:3000
+✓ Ready in 1577ms
+
+ GET / 200 in 781ms (next.js: 293ms, application-code: 489ms)
+ GET / 200 in 123ms (next.js: 12ms, application-code: 111ms)
+ GET /menu/strawberry-floral-cake.jpg 404 in 252ms (next.js: 86ms, application-code: 166ms)
+ GET /menu/chocolate-cheesecake.jpg 404 in 437ms (next.js: 131ms, application-code: 306ms)
+ GET /logo.png 404 in 435ms (next.js: 163ms, application-code: 273ms)
+⨯ The requested resource isn't a valid image for /menu/strawberry-floral-cake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/chocolate-cheesecake.jpg received null
+⨯ The requested resource isn't a valid image for /logo.png received null
+ GET /menu/biscoff-cheesecake.jpg 404 in 300ms (next.js: 183ms, application-code: 117ms)
+⨯ The requested resource isn't a valid image for /menu/biscoff-cheesecake.jpg received null
+ GET /menu/chocolate-cupcake.jpg 404 in 133ms (next.js: 64ms, application-code: 68ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-cupcake.jpg received null
+ GET /logo.png 404 in 119ms (next.js: 7ms, application-code: 111ms)
+ GET /mascot.png 404 in 121ms (next.js: 54ms, application-code: 67ms)
+⨯ The requested resource isn't a valid image for /logo.png received null
+⨯ The requested resource isn't a valid image for /mascot.png received null
+ GET /menu/strawberry-floral-cake.jpg 404 in 203ms (next.js: 12ms, application-code: 192ms)
+ GET /menu/chocolate-cheesecake.jpg 404 in 205ms (next.js: 33ms, application-code: 172ms)
+ GET /menu/biscoff-cheesecake.jpg 404 in 207ms (next.js: 54ms, application-code: 153ms)
+⨯ The requested resource isn't a valid image for /menu/strawberry-floral-cake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/chocolate-cheesecake.jpg received null
+ GET /menu/chocolate-cupcake.jpg 404 in 217ms (next.js: 147ms, application-code: 70ms)
+⨯ The requested resource isn't a valid image for /menu/biscoff-cheesecake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/chocolate-cupcake.jpg received null
+ GET /logo.png 404 in 61ms (next.js: 7ms, application-code: 54ms)
+⨯ The requested resource isn't a valid image for /logo.png received null
+ GET /mascot.png 404 in 64ms (next.js: 5ms, application-code: 60ms)
+⨯ The requested resource isn't a valid image for /mascot.png received null
+ GET /menu 200 in 104ms (next.js: 75ms, application-code: 29ms)
+[browser] Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+ GET /menu/carnation-pearl-cake.jpg 404 in 236ms (next.js: 17ms, application-code: 220ms)
+ GET /menu/strawberry-floral-cake.jpg 404 in 245ms (next.js: 50ms, application-code: 195ms)
+⨯ The requested resource isn't a valid image for /menu/carnation-pearl-cake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/strawberry-floral-cake.jpg received null
+ GET /menu/strawberry-cream-cake.jpg 404 in 276ms (next.js: 132ms, application-code: 144ms)
+⨯ The requested resource isn't a valid image for /menu/strawberry-cream-cake.jpg received null
+ GET /menu/chocolate-cheesecake.jpg 404 in 218ms (next.js: 15ms, application-code: 203ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-cheesecake.jpg received null
+ GET /menu/biscoff-cheesecake.jpg 404 in 308ms (next.js: 46ms, application-code: 263ms)
+ GET /menu/blueberry-cheesecake.jpg 404 in 315ms (next.js: 74ms, application-code: 241ms)
+⨯ The requested resource isn't a valid image for /menu/biscoff-cheesecake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/blueberry-cheesecake.jpg received null
+ GET /menu/strawberry-tart.jpg 404 in 367ms (next.js: 143ms, application-code: 224ms)
+ GET /menu/chocolate-marble-tart.jpg 404 in 367ms (next.js: 171ms, application-code: 196ms)
+⨯ The requested resource isn't a valid image for /menu/strawberry-tart.jpg received null
+⨯ The requested resource isn't a valid image for /menu/chocolate-marble-tart.jpg received null
+ GET /menu/walnut-brownies.jpg 404 in 180ms (next.js: 103ms, application-code: 77ms)
+⨯ The requested resource isn't a valid image for /menu/walnut-brownies.jpg received null
+ GET /menu/chocolate-chip-brownies.jpg 404 in 91ms (next.js: 7ms, application-code: 85ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-chip-brownies.jpg received null
+ GET /menu/chocolate-chip-cookies.jpg 404 in 73ms (next.js: 7ms, application-code: 66ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-chip-cookies.jpg received null
+ GET /admin 200 in 114ms (next.js: 68ms, application-code: 46ms)
+ GET /menu 200 in 23ms (next.js: 3ms, application-code: 21ms)
+ GET /menu/strawberry-floral-cake.jpg 404 in 178ms (next.js: 12ms, application-code: 166ms)
+ GET /menu/carnation-pearl-cake.jpg 404 in 179ms (next.js: 38ms, application-code: 141ms)
+⨯ The requested resource isn't a valid image for /menu/strawberry-floral-cake.jpg received null
+ GET /menu/strawberry-cream-cake.jpg 404 in 184ms (next.js: 104ms, application-code: 80ms)
+⨯ The requested resource isn't a valid image for /menu/carnation-pearl-cake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/strawberry-cream-cake.jpg received null
+ GET /menu/chocolate-cheesecake.jpg 404 in 185ms (next.js: 21ms, application-code: 164ms)
+ GET /menu/biscoff-cheesecake.jpg 404 in 185ms (next.js: 48ms, application-code: 137ms)
+ GET /menu/blueberry-cheesecake.jpg 404 in 186ms (next.js: 70ms, application-code: 116ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-cheesecake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/biscoff-cheesecake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/blueberry-cheesecake.jpg received null
+ GET /menu/strawberry-tart.jpg 404 in 175ms (next.js: 23ms, application-code: 153ms)
+ GET /menu/chocolate-marble-tart.jpg 404 in 169ms (next.js: 37ms, application-code: 132ms)
+⨯ The requested resource isn't a valid image for /menu/strawberry-tart.jpg received null
+ GET /menu/walnut-brownies.jpg 404 in 170ms (next.js: 108ms, application-code: 62ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-marble-tart.jpg received null
+⨯ The requested resource isn't a valid image for /menu/walnut-brownies.jpg received null
+ GET /menu/chocolate-chip-brownies.jpg 404 in 60ms (next.js: 6ms, application-code: 54ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-chip-brownies.jpg received null
+ GET /menu/blueberry-cheesecake.jpg 404 in 213ms (next.js: 9ms, application-code: 204ms)
+⨯ The requested resource isn't a valid image for /menu/blueberry-cheesecake.jpg received null
+ GET /menu/chocolate-cheesecake.jpg 404 in 214ms (next.js: 58ms, application-code: 156ms)
+ GET /menu/biscoff-cheesecake.jpg 404 in 216ms (next.js: 111ms, application-code: 105ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-cheesecake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/biscoff-cheesecake.jpg received null
+ GET /menu/strawberry-tart.jpg 404 in 115ms (next.js: 11ms, application-code: 104ms)
+ GET /menu/chocolate-marble-tart.jpg 404 in 119ms (next.js: 55ms, application-code: 64ms)
+⨯ The requested resource isn't a valid image for /menu/strawberry-tart.jpg received null
+⨯ The requested resource isn't a valid image for /menu/chocolate-marble-tart.jpg received null
+ GET /menu/walnut-brownies.jpg 404 in 110ms (next.js: 7ms, application-code: 103ms)
+ GET /menu/chocolate-chip-brownies.jpg 404 in 111ms (next.js: 54ms, application-code: 57ms)
+⨯ The requested resource isn't a valid image for /menu/walnut-brownies.jpg received null
+⨯ The requested resource isn't a valid image for /menu/chocolate-chip-brownies.jpg received null
+ GET /menu/chocolate-chip-cookies.jpg 404 in 56ms (next.js: 4ms, application-code: 51ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-chip-cookies.jpg received null
+ GET /menu/chocolate-cupcake.jpg 404 in 59ms (next.js: 5ms, application-code: 54ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-cupcake.jpg received null
+ GET /menu 200 in 23ms (next.js: 4ms, application-code: 19ms)
+ GET / 200 in 21ms (next.js: 4ms, application-code: 18ms)
+ GET /logo.png 404 in 89ms (next.js: 6ms, application-code: 83ms)
+⨯ The requested resource isn't a valid image for /logo.png received null
+ GET /menu/strawberry-floral-cake.jpg 404 in 285ms (next.js: 21ms, application-code: 263ms)
+⨯ The requested resource isn't a valid image for /menu/strawberry-floral-cake.jpg received null
+ GET /menu/chocolate-cheesecake.jpg 404 in 295ms (next.js: 71ms, application-code: 224ms)
+ GET /menu/biscoff-cheesecake.jpg 404 in 299ms (next.js: 94ms, application-code: 205ms)
+ GET /menu/chocolate-cupcake.jpg 404 in 302ms (next.js: 125ms, application-code: 177ms)
+ GET /mascot.png 404 in 305ms (next.js: 147ms, application-code: 158ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-cheesecake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/biscoff-cheesecake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/chocolate-cupcake.jpg received null
+⨯ The requested resource isn't a valid image for /mascot.png received null
+ GET /menu 200 in 45ms (next.js: 5ms, application-code: 41ms)
+ GET /menu/strawberry-floral-cake.jpg 404 in 219ms (next.js: 20ms, application-code: 199ms)
+ GET /menu/carnation-pearl-cake.jpg 404 in 220ms (next.js: 67ms, application-code: 153ms)
+⨯ The requested resource isn't a valid image for /menu/strawberry-floral-cake.jpg received null
+ GET /menu/strawberry-cream-cake.jpg 404 in 222ms (next.js: 143ms, application-code: 79ms)
+⨯ The requested resource isn't a valid image for /menu/carnation-pearl-cake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/strawberry-cream-cake.jpg received null
+ GET /menu/chocolate-cheesecake.jpg 404 in 215ms (next.js: 14ms, application-code: 201ms)
+ GET /menu/biscoff-cheesecake.jpg 404 in 216ms (next.js: 38ms, application-code: 178ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-cheesecake.jpg received null
+ GET /menu/blueberry-cheesecake.jpg 404 in 226ms (next.js: 112ms, application-code: 115ms)
+⨯ The requested resource isn't a valid image for /menu/biscoff-cheesecake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/blueberry-cheesecake.jpg received null
+ GET /menu/strawberry-tart.jpg 404 in 180ms (next.js: 25ms, application-code: 154ms)
+⨯ The requested resource isn't a valid image for /menu/strawberry-tart.jpg received null
+ GET /menu/chocolate-marble-tart.jpg 404 in 178ms (next.js: 68ms, application-code: 110ms)
+ GET /menu/walnut-brownies.jpg 404 in 180ms (next.js: 90ms, application-code: 90ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-marble-tart.jpg received null
+⨯ The requested resource isn't a valid image for /menu/walnut-brownies.jpg received null
+ GET /menu/chocolate-chip-brownies.jpg 404 in 118ms (next.js: 10ms, application-code: 109ms)
+ GET /menu/chocolate-chip-cookies.jpg 404 in 119ms (next.js: 56ms, application-code: 63ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-chip-brownies.jpg received null
+⨯ The requested resource isn't a valid image for /menu/chocolate-chip-cookies.jpg received null
+ GET /menu/chocolate-cupcake.jpg 404 in 60ms (next.js: 4ms, application-code: 56ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-cupcake.jpg received null
+ GET /menu/chocolate-cheesecake.jpg 404 in 175ms (next.js: 16ms, application-code: 158ms)
+ GET /menu/biscoff-cheesecake.jpg 404 in 176ms (next.js: 44ms, application-code: 132ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-cheesecake.jpg received null
+ GET /menu/blueberry-cheesecake.jpg 404 in 180ms (next.js: 108ms, application-code: 73ms)
+⨯ The requested resource isn't a valid image for /menu/biscoff-cheesecake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/blueberry-cheesecake.jpg received null
+ GET /menu/strawberry-floral-cake.jpg 404 in 166ms (next.js: 11ms, application-code: 156ms)
+ GET /menu/carnation-pearl-cake.jpg 404 in 168ms (next.js: 34ms, application-code: 134ms)
+⨯ The requested resource isn't a valid image for /menu/strawberry-floral-cake.jpg received null
+ GET /menu/strawberry-cream-cake.jpg 404 in 172ms (next.js: 107ms, application-code: 66ms)
+⨯ The requested resource isn't a valid image for /menu/carnation-pearl-cake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/strawberry-cream-cake.jpg received null
+ GET /menu/chocolate-cheesecake.jpg 404 in 166ms (next.js: 17ms, application-code: 149ms)
+ GET /menu/biscoff-cheesecake.jpg 404 in 165ms (next.js: 38ms, application-code: 127ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-cheesecake.jpg received null
+ GET /menu/blueberry-cheesecake.jpg 404 in 167ms (next.js: 107ms, application-code: 60ms)
+⨯ The requested resource isn't a valid image for /menu/biscoff-cheesecake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/blueberry-cheesecake.jpg received null
+ GET /menu/strawberry-tart.jpg 404 in 135ms (next.js: 14ms, application-code: 122ms)
+⨯ The requested resource isn't a valid image for /menu/strawberry-tart.jpg received null
+ GET /menu/chocolate-marble-tart.jpg 404 in 142ms (next.js: 70ms, application-code: 72ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-marble-tart.jpg received null
+ GET /menu/walnut-brownies.jpg 404 in 103ms (next.js: 6ms, application-code: 97ms)
+ GET /menu/chocolate-chip-brownies.jpg 404 in 104ms (next.js: 52ms, application-code: 52ms)
+⨯ The requested resource isn't a valid image for /menu/walnut-brownies.jpg received null
+⨯ The requested resource isn't a valid image for /menu/chocolate-chip-brownies.jpg received null
+ GET /menu/chocolate-chip-cookies.jpg 404 in 60ms (next.js: 4ms, application-code: 56ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-chip-cookies.jpg received null
+ GET /menu/chocolate-cupcake.jpg 404 in 60ms (next.js: 6ms, application-code: 54ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-cupcake.jpg received null
+ GET /admin 200 in 42ms (next.js: 4ms, application-code: 37ms)
+ GET /menu 200 in 24ms (next.js: 3ms, application-code: 21ms)
+ GET /menu/strawberry-floral-cake.jpg 404 in 185ms (next.js: 20ms, application-code: 165ms)
+⨯ The requested resource isn't a valid image for /menu/strawberry-floral-cake.jpg received null
+ GET /menu/carnation-pearl-cake.jpg 404 in 191ms (next.js: 74ms, application-code: 117ms)
+ GET /menu/strawberry-cream-cake.jpg 404 in 194ms (next.js: 96ms, application-code: 98ms)
+⨯ The requested resource isn't a valid image for /menu/carnation-pearl-cake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/strawberry-cream-cake.jpg received null
+ GET /menu/chocolate-cheesecake.jpg 404 in 221ms (next.js: 21ms, application-code: 200ms)
+ GET /menu/biscoff-cheesecake.jpg 404 in 223ms (next.js: 49ms, application-code: 174ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-cheesecake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/biscoff-cheesecake.jpg received null
+ GET /menu/blueberry-cheesecake.jpg 404 in 236ms (next.js: 121ms, application-code: 115ms)
+⨯ The requested resource isn't a valid image for /menu/blueberry-cheesecake.jpg received null
+ GET /menu/strawberry-tart.jpg 404 in 188ms (next.js: 27ms, application-code: 161ms)
+⨯ The requested resource isn't a valid image for /menu/strawberry-tart.jpg received null
+ GET /menu/chocolate-marble-tart.jpg 404 in 178ms (next.js: 69ms, application-code: 109ms)
+ GET /menu/walnut-brownies.jpg 404 in 149ms (next.js: 82ms, application-code: 67ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-marble-tart.jpg received null
+⨯ The requested resource isn't a valid image for /menu/walnut-brownies.jpg received null
+ GET /menu/chocolate-chip-brownies.jpg 404 in 66ms (next.js: 11ms, application-code: 55ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-chip-brownies.jpg received null
+ GET /admin 200 in 37ms (next.js: 3ms, application-code: 34ms)
+ GET /menu 200 in 25ms (next.js: 4ms, application-code: 21ms)
+ GET /menu/strawberry-floral-cake.jpg 404 in 180ms (next.js: 12ms, application-code: 168ms)
+⨯ The requested resource isn't a valid image for /menu/strawberry-floral-cake.jpg received null
+ GET /menu/carnation-pearl-cake.jpg 404 in 185ms (next.js: 65ms, application-code: 121ms)
+ GET /menu/strawberry-cream-cake.jpg 404 in 186ms (next.js: 87ms, application-code: 99ms)
+⨯ The requested resource isn't a valid image for /menu/carnation-pearl-cake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/strawberry-cream-cake.jpg received null
+ GET /menu/chocolate-cheesecake.jpg 404 in 175ms (next.js: 18ms, application-code: 157ms)
+ GET /menu/biscoff-cheesecake.jpg 404 in 177ms (next.js: 40ms, application-code: 137ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-cheesecake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/biscoff-cheesecake.jpg received null
+ GET /menu/blueberry-cheesecake.jpg 404 in 187ms (next.js: 114ms, application-code: 74ms)
+⨯ The requested resource isn't a valid image for /menu/blueberry-cheesecake.jpg received null
+ GET /menu/strawberry-tart.jpg 404 in 193ms (next.js: 26ms, application-code: 167ms)
+⨯ The requested resource isn't a valid image for /menu/strawberry-tart.jpg received null
+ GET /menu/chocolate-marble-tart.jpg 404 in 187ms (next.js: 77ms, application-code: 110ms)
+ GET /menu/walnut-brownies.jpg 404 in 146ms (next.js: 81ms, application-code: 65ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-marble-tart.jpg received null
+⨯ The requested resource isn't a valid image for /menu/walnut-brownies.jpg received null
+ GET /menu/chocolate-chip-brownies.jpg 404 in 58ms (next.js: 10ms, application-code: 48ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-chip-brownies.jpg received null
+ GET /menu/chocolate-chip-cookies.jpg 404 in 59ms (next.js: 4ms, application-code: 55ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-chip-cookies.jpg received null
+ GET /menu/chocolate-cupcake.jpg 404 in 72ms (next.js: 4ms, application-code: 68ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-cupcake.jpg received null
+ GET /menu 200 in 20ms (next.js: 6ms, application-code: 14ms)
+ GET /menu 200 in 28ms (next.js: 4ms, application-code: 25ms)
+ GET / 200 in 24ms (next.js: 3ms, application-code: 20ms)
+ GET /logo.png 404 in 98ms (next.js: 7ms, application-code: 91ms)
+⨯ The requested resource isn't a valid image for /logo.png received null
+ GET /menu/strawberry-floral-cake.jpg 404 in 322ms (next.js: 17ms, application-code: 305ms)
+⨯ The requested resource isn't a valid image for /menu/strawberry-floral-cake.jpg received null
+ GET /menu/chocolate-cheesecake.jpg 404 in 338ms (next.js: 76ms, application-code: 262ms)
+ GET /menu/biscoff-cheesecake.jpg 404 in 343ms (next.js: 104ms, application-code: 239ms)
+ GET /menu/chocolate-cupcake.jpg 404 in 349ms (next.js: 136ms, application-code: 213ms)
+ GET /mascot.png 404 in 352ms (next.js: 162ms, application-code: 190ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-cheesecake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/biscoff-cheesecake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/chocolate-cupcake.jpg received null
+⨯ The requested resource isn't a valid image for /mascot.png received null
+ GET /menu 200 in 26ms (next.js: 4ms, application-code: 22ms)
+ GET /menu/strawberry-floral-cake.jpg 404 in 184ms (next.js: 16ms, application-code: 168ms)
+ GET /menu/carnation-pearl-cake.jpg 404 in 185ms (next.js: 48ms, application-code: 138ms)
+⨯ The requested resource isn't a valid image for /menu/strawberry-floral-cake.jpg received null
+ GET /menu/strawberry-cream-cake.jpg 404 in 192ms (next.js: 118ms, application-code: 74ms)
+⨯ The requested resource isn't a valid image for /menu/carnation-pearl-cake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/strawberry-cream-cake.jpg received null
+ GET /menu/chocolate-cheesecake.jpg 404 in 193ms (next.js: 15ms, application-code: 178ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-cheesecake.jpg received null
+ GET /menu/biscoff-cheesecake.jpg 404 in 214ms (next.js: 64ms, application-code: 150ms)
+ GET /menu/blueberry-cheesecake.jpg 404 in 220ms (next.js: 92ms, application-code: 128ms)
+⨯ The requested resource isn't a valid image for /menu/biscoff-cheesecake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/blueberry-cheesecake.jpg received null
+ GET /menu/strawberry-tart.jpg 404 in 237ms (next.js: 57ms, application-code: 180ms)
+⨯ The requested resource isn't a valid image for /menu/strawberry-tart.jpg received null
+ GET /menu/chocolate-marble-tart.jpg 404 in 230ms (next.js: 119ms, application-code: 111ms)
+ GET /menu/walnut-brownies.jpg 404 in 231ms (next.js: 143ms, application-code: 88ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-marble-tart.jpg received null
+⨯ The requested resource isn't a valid image for /menu/walnut-brownies.jpg received null
+ GET /menu/chocolate-chip-brownies.jpg 404 in 128ms (next.js: 17ms, application-code: 111ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-chip-brownies.jpg received null
+ GET /menu/chocolate-chip-cookies.jpg 404 in 89ms (next.js: 30ms, application-code: 60ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-chip-cookies.jpg received null
+ GET /menu/chocolate-cheesecake.jpg 404 in 159ms (next.js: 11ms, application-code: 148ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-cheesecake.jpg received null
+ GET /menu/biscoff-cheesecake.jpg 404 in 161ms (next.js: 53ms, application-code: 107ms)
+ GET /menu/blueberry-cheesecake.jpg 404 in 162ms (next.js: 77ms, application-code: 85ms)
+⨯ The requested resource isn't a valid image for /menu/biscoff-cheesecake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/blueberry-cheesecake.jpg received null
+ GET /menu/strawberry-tart.jpg 404 in 114ms (next.js: 10ms, application-code: 104ms)
+ GET /menu/chocolate-marble-tart.jpg 404 in 115ms (next.js: 55ms, application-code: 60ms)
+⨯ The requested resource isn't a valid image for /menu/strawberry-tart.jpg received null
+⨯ The requested resource isn't a valid image for /menu/chocolate-marble-tart.jpg received null
+ GET /menu/walnut-brownies.jpg 404 in 105ms (next.js: 7ms, application-code: 97ms)
+ GET /menu/chocolate-chip-brownies.jpg 404 in 106ms (next.js: 50ms, application-code: 56ms)
+⨯ The requested resource isn't a valid image for /menu/walnut-brownies.jpg received null
+⨯ The requested resource isn't a valid image for /menu/chocolate-chip-brownies.jpg received null
+ GET /menu/chocolate-chip-cookies.jpg 404 in 53ms (next.js: 4ms, application-code: 49ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-chip-cookies.jpg received null
+ GET /menu/chocolate-cupcake.jpg 404 in 53ms (next.js: 5ms, application-code: 49ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-cupcake.jpg received null
+ GET /menu/chocolate-chip-cookies.jpg 404 in 96ms (next.js: 13ms, application-code: 83ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-chip-cookies.jpg received null
+ GET /menu/walnut-brownies.jpg 404 in 126ms (next.js: 8ms, application-code: 118ms)
+ GET /menu/chocolate-chip-brownies.jpg 404 in 128ms (next.js: 65ms, application-code: 63ms)
+⨯ The requested resource isn't a valid image for /menu/walnut-brownies.jpg received null
+⨯ The requested resource isn't a valid image for /menu/chocolate-chip-brownies.jpg received null
+ GET /menu/chocolate-cheesecake.jpg 404 in 186ms (next.js: 14ms, application-code: 172ms)
+ GET /menu/biscoff-cheesecake.jpg 404 in 189ms (next.js: 45ms, application-code: 144ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-cheesecake.jpg received null
+ GET /menu/blueberry-cheesecake.jpg 404 in 193ms (next.js: 124ms, application-code: 70ms)
+⨯ The requested resource isn't a valid image for /menu/biscoff-cheesecake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/blueberry-cheesecake.jpg received null
+ GET /menu/strawberry-floral-cake.jpg 404 in 179ms (next.js: 14ms, application-code: 165ms)
+ GET /menu/carnation-pearl-cake.jpg 404 in 180ms (next.js: 40ms, application-code: 140ms)
+⨯ The requested resource isn't a valid image for /menu/strawberry-floral-cake.jpg received null
+ GET /menu/strawberry-cream-cake.jpg 404 in 189ms (next.js: 112ms, application-code: 78ms)
+⨯ The requested resource isn't a valid image for /menu/carnation-pearl-cake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/strawberry-cream-cake.jpg received null
+ GET /menu/strawberry-tart.jpg 404 in 269ms (next.js: 28ms, application-code: 241ms)
+ GET /menu/chocolate-marble-tart.jpg 404 in 267ms (next.js: 65ms, application-code: 202ms)
+ GET /menu/walnut-brownies.jpg 404 in 266ms (next.js: 100ms, application-code: 166ms)
+⨯ The requested resource isn't a valid image for /menu/strawberry-tart.jpg received null
+⨯ The requested resource isn't a valid image for /menu/chocolate-marble-tart.jpg received null
+⨯ The requested resource isn't a valid image for /menu/walnut-brownies.jpg received null
+ GET /menu/chocolate-chip-brownies.jpg 404 in 78ms (next.js: 17ms, application-code: 60ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-chip-brownies.jpg received null
+ GET /menu/chocolate-chip-cookies.jpg 404 in 75ms (next.js: 5ms, application-code: 70ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-chip-cookies.jpg received null
+ GET /menu/chocolate-cupcake.jpg 404 in 68ms (next.js: 6ms, application-code: 62ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-cupcake.jpg received null
+ GET / 200 in 26ms (next.js: 5ms, application-code: 20ms)
+ GET /logo.png 404 in 75ms (next.js: 5ms, application-code: 70ms)
+⨯ The requested resource isn't a valid image for /logo.png received null
+ GET /menu/strawberry-floral-cake.jpg 404 in 303ms (next.js: 14ms, application-code: 289ms)
+ GET /menu/chocolate-cheesecake.jpg 404 in 304ms (next.js: 38ms, application-code: 267ms)
+⨯ The requested resource isn't a valid image for /menu/strawberry-floral-cake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/chocolate-cheesecake.jpg received null
+ GET /menu/biscoff-cheesecake.jpg 404 in 310ms (next.js: 110ms, application-code: 200ms)
+ GET /menu/chocolate-cupcake.jpg 404 in 311ms (next.js: 138ms, application-code: 174ms)
+ GET /mascot.png 404 in 314ms (next.js: 161ms, application-code: 153ms)
+⨯ The requested resource isn't a valid image for /menu/biscoff-cheesecake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/chocolate-cupcake.jpg received null
+⨯ The requested resource isn't a valid image for /mascot.png received null
+ GET /menu 200 in 110ms (next.js: 16ms, application-code: 95ms)
+ GET /menu/strawberry-floral-cake.jpg 404 in 215ms (next.js: 20ms, application-code: 195ms)
+ GET /menu/carnation-pearl-cake.jpg 404 in 217ms (next.js: 65ms, application-code: 152ms)
+⨯ The requested resource isn't a valid image for /menu/strawberry-floral-cake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/carnation-pearl-cake.jpg received null
+ GET /menu/strawberry-cream-cake.jpg 404 in 224ms (next.js: 143ms, application-code: 81ms)
+⨯ The requested resource isn't a valid image for /menu/strawberry-cream-cake.jpg received null
+ GET /menu/chocolate-cheesecake.jpg 404 in 308ms (next.js: 18ms, application-code: 289ms)
+ GET /menu/biscoff-cheesecake.jpg 404 in 311ms (next.js: 43ms, application-code: 268ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-cheesecake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/biscoff-cheesecake.jpg received null
+ GET /menu/blueberry-cheesecake.jpg 404 in 316ms (next.js: 238ms, application-code: 78ms)
+⨯ The requested resource isn't a valid image for /menu/blueberry-cheesecake.jpg received null
+ GET /menu/strawberry-tart.jpg 404 in 197ms (next.js: 23ms, application-code: 174ms)
+ GET /menu/chocolate-marble-tart.jpg 404 in 198ms (next.js: 49ms, application-code: 149ms)
+⨯ The requested resource isn't a valid image for /menu/strawberry-tart.jpg received null
+⨯ The requested resource isn't a valid image for /menu/chocolate-marble-tart.jpg received null
+ GET /menu/walnut-brownies.jpg 404 in 136ms (next.js: 57ms, application-code: 78ms)
+⨯ The requested resource isn't a valid image for /menu/walnut-brownies.jpg received null
+ GET /menu/chocolate-chip-brownies.jpg 404 in 118ms (next.js: 10ms, application-code: 108ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-chip-brownies.jpg received null
+ GET /menu/chocolate-chip-cookies.jpg 404 in 56ms (next.js: 4ms, application-code: 52ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-chip-cookies.jpg received null
+ GET /menu/chocolate-cupcake.jpg 404 in 107ms (next.js: 16ms, application-code: 91ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-cupcake.jpg received null
+ GET /menu/chocolate-cheesecake.jpg 404 in 170ms (next.js: 9ms, application-code: 161ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-cheesecake.jpg received null
+ GET /menu/blueberry-cheesecake.jpg 404 in 173ms (next.js: 55ms, application-code: 118ms)
+ GET /menu/biscoff-cheesecake.jpg 404 in 178ms (next.js: 111ms, application-code: 66ms)
+⨯ The requested resource isn't a valid image for /menu/blueberry-cheesecake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/biscoff-cheesecake.jpg received null
+ GET /menu/strawberry-tart.jpg 404 in 113ms (next.js: 9ms, application-code: 103ms)
+ GET /menu/chocolate-marble-tart.jpg 404 in 114ms (next.js: 55ms, application-code: 59ms)
+⨯ The requested resource isn't a valid image for /menu/strawberry-tart.jpg received null
+⨯ The requested resource isn't a valid image for /menu/chocolate-marble-tart.jpg received null
+ GET /menu/walnut-brownies.jpg 404 in 135ms (next.js: 12ms, application-code: 122ms)
+ GET /menu/chocolate-chip-brownies.jpg 404 in 135ms (next.js: 62ms, application-code: 73ms)
+⨯ The requested resource isn't a valid image for /menu/walnut-brownies.jpg received null
+⨯ The requested resource isn't a valid image for /menu/chocolate-chip-brownies.jpg received null
+ GET /menu/chocolate-chip-cookies.jpg 404 in 75ms (next.js: 4ms, application-code: 71ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-chip-cookies.jpg received null
+ GET /menu/chocolate-cupcake.jpg 404 in 64ms (next.js: 4ms, application-code: 60ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-cupcake.jpg received null
+ GET / 200 in 25ms (next.js: 5ms, application-code: 21ms)
+ GET /logo.png 404 in 187ms (next.js: 18ms, application-code: 169ms)
+⨯ The requested resource isn't a valid image for /logo.png received null
+ GET /menu/strawberry-floral-cake.jpg 404 in 190ms (next.js: 76ms, application-code: 114ms)
+ GET /menu/chocolate-cheesecake.jpg 404 in 195ms (next.js: 99ms, application-code: 96ms)
+⨯ The requested resource isn't a valid image for /menu/strawberry-floral-cake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/chocolate-cheesecake.jpg received null
+ GET /menu/biscoff-cheesecake.jpg 404 in 162ms (next.js: 12ms, application-code: 150ms)
+⨯ The requested resource isn't a valid image for /menu/biscoff-cheesecake.jpg received null
+ GET /menu/chocolate-cupcake.jpg 404 in 165ms (next.js: 57ms, application-code: 108ms)
+ GET /mascot.png 404 in 166ms (next.js: 81ms, application-code: 84ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-cupcake.jpg received null
+⨯ The requested resource isn't a valid image for /mascot.png received null
+ GET / 200 in 986ms (next.js: 279ms, application-code: 707ms)
+ GET / 200 in 166ms (next.js: 6ms, application-code: 159ms)
+ GET /logo.png 404 in 1096ms (next.js: 36ms, application-code: 1060ms)
+ GET /menu/strawberry-floral-cake.jpg 404 in 1118ms (next.js: 115ms, application-code: 1003ms)
+ GET /menu/chocolate-cheesecake.jpg 404 in 1116ms (next.js: 148ms, application-code: 968ms)
+ GET /menu/biscoff-cheesecake.jpg 404 in 1130ms (next.js: 235ms, application-code: 895ms)
+ GET /menu/chocolate-cupcake.jpg 404 in 1165ms (next.js: 998ms, application-code: 167ms)
+⨯ The requested resource isn't a valid image for /logo.png received null
+⨯ The requested resource isn't a valid image for /menu/chocolate-cheesecake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/strawberry-floral-cake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/biscoff-cheesecake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/chocolate-cupcake.jpg received null
+ GET /logo.png 404 in 187ms (next.js: 11ms, application-code: 176ms)
+ GET /mascot.png 404 in 196ms (next.js: 89ms, application-code: 107ms)
+⨯ The requested resource isn't a valid image for /logo.png received null
+⨯ The requested resource isn't a valid image for /mascot.png received null
+ GET /menu/strawberry-floral-cake.jpg 404 in 269ms (next.js: 25ms, application-code: 244ms)
+ GET /menu/chocolate-cheesecake.jpg 404 in 272ms (next.js: 55ms, application-code: 217ms)
+ GET /menu/biscoff-cheesecake.jpg 404 in 276ms (next.js: 84ms, application-code: 192ms)
+ GET /menu/chocolate-cupcake.jpg 404 in 275ms (next.js: 112ms, application-code: 163ms)
+⨯ The requested resource isn't a valid image for /menu/strawberry-floral-cake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/chocolate-cheesecake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/biscoff-cheesecake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/chocolate-cupcake.jpg received null
+ GET /mascot.png 404 in 73ms (next.js: 8ms, application-code: 65ms)
+⨯ The requested resource isn't a valid image for /mascot.png received null
+ GET / 200 in 134ms (next.js: 10ms, application-code: 125ms)
+ GET /menu/strawberry-floral-cake.jpg 404 in 290ms (next.js: 15ms, application-code: 275ms)
+⨯ The requested resource isn't a valid image for /menu/strawberry-floral-cake.jpg received null
+ GET /menu/chocolate-cupcake.jpg 404 in 295ms (next.js: 73ms, application-code: 221ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-cupcake.jpg received null
+ GET /menu/biscoff-cheesecake.jpg 404 in 304ms (next.js: 147ms, application-code: 157ms)
+ GET /menu/chocolate-cheesecake.jpg 404 in 311ms (next.js: 178ms, application-code: 133ms)
+⨯ The requested resource isn't a valid image for /menu/biscoff-cheesecake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/chocolate-cheesecake.jpg received null
+ GET /mascot.png 404 in 121ms (next.js: 7ms, application-code: 114ms)
+⨯ The requested resource isn't a valid image for /mascot.png received null
+ GET /menu/strawberry-floral-cake.jpg 404 in 262ms (next.js: 16ms, application-code: 246ms)
+⨯ The requested resource isn't a valid image for /menu/strawberry-floral-cake.jpg received null
+ GET /menu/chocolate-cheesecake.jpg 404 in 268ms (next.js: 71ms, application-code: 197ms)
+ GET /menu/biscoff-cheesecake.jpg 404 in 269ms (next.js: 96ms, application-code: 174ms)
+ GET /menu/chocolate-cupcake.jpg 404 in 270ms (next.js: 126ms, application-code: 144ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-cheesecake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/biscoff-cheesecake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/chocolate-cupcake.jpg received null
+ GET /mascot.png 404 in 67ms (next.js: 6ms, application-code: 61ms)
+⨯ The requested resource isn't a valid image for /mascot.png received null
+ GET /menu 200 in 49ms (next.js: 8ms, application-code: 41ms)
+[browser] Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+ GET /menu/chocolate-cheesecake.jpg 404 in 77ms (next.js: 8ms, application-code: 69ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-cheesecake.jpg received null
+✓ Compiled in 2.9s
+ GET /menu 200 in 238ms (next.js: 175ms, application-code: 63ms)
+✓ Compiled in 390ms
+ GET / 200 in 319ms (next.js: 269ms, application-code: 49ms)
+ GET / 200 in 232ms (next.js: 4ms, application-code: 228ms)
+ GET / 200 in 198ms (next.js: 6ms, application-code: 192ms)
+ GET / 200 in 150ms (next.js: 42ms, application-code: 108ms)
+ GET / 200 in 149ms (next.js: 118ms, application-code: 32ms)
+ GET / 200 in 152ms (next.js: 8ms, application-code: 145ms)
+ GET /menu/chocolate-cheesecake.jpg 404 in 504ms (next.js: 261ms, application-code: 244ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-cheesecake.jpg received null
+ GET / 200 in 108ms (next.js: 5ms, application-code: 103ms)
+ GET /menu 200 in 432ms (next.js: 171ms, application-code: 261ms)
+ GET /menu/chocolate-cheesecake.jpg 404 in 58ms (next.js: 5ms, application-code: 53ms)
+ GET / 200 in 87ms (next.js: 5ms, application-code: 82ms)
+ GET / 200 in 77ms (next.js: 3ms, application-code: 74ms)
+ GET /menu 200 in 99ms (next.js: 5ms, application-code: 94ms)
+ GET /admin 200 in 234ms (next.js: 178ms, application-code: 57ms)
+ GET /menu 200 in 20ms (next.js: 3ms, application-code: 18ms)
+ GET /menu/chocolate-cheesecake.jpg 404 in 77ms (next.js: 10ms, application-code: 66ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-cheesecake.jpg received null
+ GET /admin 200 in 47ms (next.js: 3ms, application-code: 45ms)
+✓ Compiled in 267ms
+ GET /admin 200 in 236ms (next.js: 168ms, application-code: 68ms)
+✓ Compiled in 624ms
+⚠ Fast Refresh had to perform a full reload when ./node_modules/next/dist/client/image-component.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ GET /admin 404 in 1310ms (next.js: 874ms, application-code: 436ms)
+ GET /admin 404 in 334ms (next.js: 259ms, application-code: 75ms)
+ GET /admin 404 in 399ms (next.js: 7ms, application-code: 392ms)
+ GET /admin 404 in 350ms (next.js: 234ms, application-code: 115ms)
+ GET /admin 404 in 342ms (next.js: 289ms, application-code: 53ms)
+ GET /admin 404 in 415ms (next.js: 19ms, application-code: 396ms)
+ GET / 200 in 405ms (next.js: 166ms, application-code: 238ms)
+ GET /menu 200 in 823ms (next.js: 604ms, application-code: 219ms)
+ GET /admin 404 in 61ms (next.js: 5ms, application-code: 56ms)
+ GET / 200 in 81ms (next.js: 5ms, application-code: 77ms)
+ GET / 200 in 106ms (next.js: 4ms, application-code: 102ms)
+ GET /menu/chocolate-cheesecake.jpg 404 in 95ms (next.js: 13ms, application-code: 82ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-cheesecake.jpg received null
+ GET /menu/chocolate-cheesecake.jpg 404 in 63ms (next.js: 6ms, application-code: 57ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-cheesecake.jpg received null
+✓ Compiled in 139ms
+ GET / 200 in 1097ms (next.js: 646ms, application-code: 451ms)
+ GET /admin 404 in 407ms (next.js: 26ms, application-code: 381ms)
+ GET /admin 404 in 313ms (next.js: 12ms, application-code: 301ms)
+ GET / 200 in 354ms (next.js: 5ms, application-code: 349ms)
+ GET /admin 404 in 309ms (next.js: 62ms, application-code: 247ms)
+✓ Compiled in 56ms
+ GET /admin 404 in 461ms (next.js: 166ms, application-code: 295ms)
+ GET / 200 in 468ms (next.js: 110ms, application-code: 358ms)
+ GET /admin 404 in 232ms (next.js: 12ms, application-code: 220ms)
+ GET / 200 in 273ms (next.js: 6ms, application-code: 267ms)
+ GET /admin 404 in 228ms (next.js: 44ms, application-code: 184ms)
+✓ Compiled in 54ms
+ GET /admin 404 in 436ms (next.js: 182ms, application-code: 253ms)
+ GET / 200 in 440ms (next.js: 116ms, application-code: 324ms)
+ GET /admin 404 in 193ms (next.js: 11ms, application-code: 182ms)
+ GET / 200 in 231ms (next.js: 5ms, application-code: 226ms)
+ GET /admin 404 in 189ms (next.js: 31ms, application-code: 158ms)
+✓ Compiled in 42ms
+ GET /admin 404 in 438ms (next.js: 171ms, application-code: 267ms)
+ GET / 200 in 443ms (next.js: 118ms, application-code: 325ms)
+ GET / 200 in 233ms (next.js: 10ms, application-code: 223ms)
+ GET /admin 404 in 197ms (next.js: 6ms, application-code: 191ms)
+ GET /admin 404 in 195ms (next.js: 35ms, application-code: 160ms)
+ GET / 200 in 99ms (next.js: 3ms, application-code: 96ms)
+ GET / 200 in 142ms (next.js: 13ms, application-code: 129ms)
+[browser] Image with src "/mascot.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+ GET /menu 200 in 215ms (next.js: 172ms, application-code: 43ms)
+[browser] Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+ GET /menu/chocolate-cheesecake.jpg 404 in 77ms (next.js: 13ms, application-code: 64ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-cheesecake.jpg received null
+ GET / 200 in 27ms (next.js: 3ms, application-code: 24ms)
+ GET / 200 in 36ms (next.js: 5ms, application-code: 31ms)
+ GET /menu 200 in 25ms (next.js: 3ms, application-code: 22ms)
+ GET /menu/chocolate-cheesecake.jpg 404 in 91ms (next.js: 17ms, application-code: 74ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-cheesecake.jpg received null
+ GET / 200 in 27ms (next.js: 3ms, application-code: 24ms)
+ GET /menu 200 in 41ms (next.js: 10ms, application-code: 31ms)
+ GET /menu/chocolate-cheesecake.jpg 404 in 94ms (next.js: 8ms, application-code: 86ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-cheesecake.jpg received null
+ GET / 200 in 26ms (next.js: 3ms, application-code: 23ms)
+ GET /menu 200 in 30ms (next.js: 3ms, application-code: 27ms)
+ GET /menu/chocolate-cheesecake.jpg 404 in 83ms (next.js: 9ms, application-code: 74ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-cheesecake.jpg received null
+ GET /menu/chocolate-cheesecake.jpg 404 in 100ms (next.js: 7ms, application-code: 92ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-cheesecake.jpg received null
+ GET /menu/chocolate-cheesecake.jpg 404 in 77ms (next.js: 13ms, application-code: 64ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-cheesecake.jpg received null
+ GET /menu/chocolate-cheesecake.jpg 404 in 58ms (next.js: 5ms, application-code: 53ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-cheesecake.jpg received null
+ GET / 200 in 38ms (next.js: 8ms, application-code: 31ms)
+ GET /menu 200 in 27ms (next.js: 3ms, application-code: 24ms)
+ GET /menu/chocolate-cheesecake.jpg 404 in 78ms (next.js: 14ms, application-code: 65ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-cheesecake.jpg received null
+ GET / 200 in 28ms (next.js: 4ms, application-code: 24ms)
+ GET /menu 200 in 89ms (next.js: 15ms, application-code: 74ms)
+ GET /menu/chocolate-cheesecake.jpg 404 in 207ms (next.js: 21ms, application-code: 186ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-cheesecake.jpg received null
+ GET / 200 in 86ms (next.js: 16ms, application-code: 70ms)
+ GET /menu 200 in 92ms (next.js: 15ms, application-code: 77ms)
+ GET /menu/chocolate-cheesecake.jpg 404 in 217ms (next.js: 17ms, application-code: 200ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-cheesecake.jpg received null
+ GET / 200 in 93ms (next.js: 10ms, application-code: 83ms)
+ GET /menu 200 in 89ms (next.js: 15ms, application-code: 75ms)
+ GET /menu/chocolate-cheesecake.jpg 404 in 243ms (next.js: 21ms, application-code: 222ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-cheesecake.jpg received null
+ GET / 200 in 88ms (next.js: 10ms, application-code: 78ms)
+ GET /menu 200 in 84ms (next.js: 10ms, application-code: 75ms)
+ GET /menu/chocolate-cheesecake.jpg 404 in 217ms (next.js: 15ms, application-code: 202ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-cheesecake.jpg received null
+✓ Compiled in 197ms
+ GET /menu 200 in 1689ms (next.js: 1098ms, application-code: 591ms)
+ GET /menu 200 in 228ms (next.js: 51ms, application-code: 177ms)
+✓ Compiled in 89ms
+ GET /menu 200 in 204ms (next.js: 121ms, application-code: 82ms)
+ GET /menu 200 in 31ms (next.js: 3ms, application-code: 28ms)
+ GET /menu/chocolate-drip-cake.jpg 404 in 420ms (next.js: 32ms, application-code: 388ms)
+ GET /menu/chocolate-floral-cake.jpg 404 in 421ms (next.js: 63ms, application-code: 359ms)
+ GET /menu/chocolate-rosette-cake.jpg 404 in 424ms (next.js: 92ms, application-code: 332ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-drip-cake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/chocolate-floral-cake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/chocolate-rosette-cake.jpg received null
+ GET /menu/chocolate-number-cake.jpg 404 in 431ms (next.js: 303ms, application-code: 127ms)
+ GET /menu/chocolate-photo-cake.jpg 404 in 432ms (next.js: 327ms, application-code: 105ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-number-cake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/chocolate-photo-cake.jpg received null
+✓ Compiled in 48ms
+ GET /menu 200 in 214ms (next.js: 127ms, application-code: 87ms)
+ GET /menu 200 in 36ms (next.js: 3ms, application-code: 33ms)
+ GET /menu/baked-nutella-cheesecake.jpg 404 in 164ms (next.js: 18ms, application-code: 146ms)
+⨯ The requested resource isn't a valid image for /menu/baked-nutella-cheesecake.jpg received null
+✓ Compiled in 67ms
+ GET /menu 200 in 194ms (next.js: 121ms, application-code: 73ms)
+ GET /menu 200 in 31ms (next.js: 2ms, application-code: 28ms)
+✓ Compiled in 51ms
+ GET /menu 200 in 210ms (next.js: 129ms, application-code: 81ms)
+ GET /menu 200 in 29ms (next.js: 3ms, application-code: 27ms)
+ GET /menu/vanco-bento-cake.jpg 404 in 263ms (next.js: 24ms, application-code: 239ms)
+ GET /menu/chocolate-bento-cake.jpg 404 in 269ms (next.js: 160ms, application-code: 108ms)
+ GET /menu/brownie-bento-cake.jpg 404 in 269ms (next.js: 183ms, application-code: 87ms)
+⨯ The requested resource isn't a valid image for /menu/vanco-bento-cake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/chocolate-bento-cake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/brownie-bento-cake.jpg received null
+✓ Compiled in 68ms
+ GET /menu 200 in 135ms (next.js: 93ms, application-code: 43ms)
+ GET /menu 200 in 197ms (next.js: 3ms, application-code: 194ms)
+ GET /menu 200 in 102ms (next.js: 5ms, application-code: 98ms)
+ GET /menu 200 in 105ms (next.js: 4ms, application-code: 101ms)
+ GET /menu 200 in 92ms (next.js: 4ms, application-code: 88ms)
+ GET /menu 200 in 87ms (next.js: 4ms, application-code: 83ms)
+ GET /menu 200 in 141ms (next.js: 7ms, application-code: 134ms)
+ GET /menu/chocolate-drip-cake.jpg 404 in 340ms (next.js: 37ms, application-code: 303ms)
+ GET /menu/chocolate-floral-cake.jpg 404 in 342ms (next.js: 74ms, application-code: 268ms)
+ GET /menu/chocolate-rosette-cake.jpg 404 in 343ms (next.js: 98ms, application-code: 245ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-drip-cake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/chocolate-floral-cake.jpg received null
+ GET /menu/chocolate-number-cake.jpg 404 in 348ms (next.js: 208ms, application-code: 140ms)
+ GET /menu/chocolate-photo-cake.jpg 404 in 351ms (next.js: 236ms, application-code: 114ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-rosette-cake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/chocolate-number-cake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/chocolate-photo-cake.jpg received null
+ GET /menu/chocolate-drip-cake.jpg 404 in 323ms (next.js: 22ms, application-code: 301ms)
+ GET /menu/chocolate-floral-cake.jpg 404 in 325ms (next.js: 45ms, application-code: 280ms)
+ GET /menu/chocolate-rosette-cake.jpg 404 in 329ms (next.js: 70ms, application-code: 258ms)
+ GET /menu/chocolate-number-cake.jpg 404 in 334ms (next.js: 108ms, application-code: 226ms)
+ GET /menu/chocolate-photo-cake.jpg 404 in 336ms (next.js: 136ms, application-code: 200ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-drip-cake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/chocolate-floral-cake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/chocolate-rosette-cake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/chocolate-number-cake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/chocolate-photo-cake.jpg received null
+ GET /menu/vanco-bento-cake.jpg 404 in 232ms (next.js: 12ms, application-code: 220ms)
+ GET /menu/chocolate-bento-cake.jpg 404 in 239ms (next.js: 95ms, application-code: 144ms)
+⨯ The requested resource isn't a valid image for /menu/vanco-bento-cake.jpg received null
+ GET /menu/brownie-bento-cake.jpg 404 in 238ms (next.js: 154ms, application-code: 84ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-bento-cake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/brownie-bento-cake.jpg received null
+ GET /menu/chocolate-fudge-bento-cake.jpg 404 in 122ms (next.js: 7ms, application-code: 115ms)
+ GET /menu/vanilla-bento-cake.jpg 404 in 125ms (next.js: 54ms, application-code: 70ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-fudge-bento-cake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/vanilla-bento-cake.jpg received null
+ GET /menu/baked-nutella-cheesecake.jpg 404 in 63ms (next.js: 6ms, application-code: 57ms)
+⨯ The requested resource isn't a valid image for /menu/baked-nutella-cheesecake.jpg received null
+ GET /menu/rum-tart.jpg 404 in 76ms (next.js: 12ms, application-code: 65ms)
+⨯ The requested resource isn't a valid image for /menu/rum-tart.jpg received null
+ GET /menu/chocolate-drip-cake.jpg 404 in 307ms (next.js: 25ms, application-code: 282ms)
+ GET /menu/chocolate-floral-cake.jpg 404 in 310ms (next.js: 59ms, application-code: 251ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-drip-cake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/chocolate-floral-cake.jpg received null
+ GET /menu/chocolate-rosette-cake.jpg 404 in 314ms (next.js: 133ms, application-code: 180ms)
+ GET /menu/chocolate-number-cake.jpg 404 in 314ms (next.js: 158ms, application-code: 155ms)
+ GET /menu/chocolate-photo-cake.jpg 404 in 315ms (next.js: 182ms, application-code: 132ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-rosette-cake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/chocolate-number-cake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/chocolate-photo-cake.jpg received null
+ GET /menu 200 in 136ms (next.js: 4ms, application-code: 132ms)
+ GET /menu/chocolate-drip-cake.jpg 404 in 365ms (next.js: 27ms, application-code: 338ms)
+ GET /menu/chocolate-floral-cake.jpg 404 in 367ms (next.js: 60ms, application-code: 307ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-drip-cake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/chocolate-floral-cake.jpg received null
+ GET /menu/chocolate-rosette-cake.jpg 404 in 380ms (next.js: 134ms, application-code: 245ms)
+ GET /menu/chocolate-number-cake.jpg 404 in 382ms (next.js: 160ms, application-code: 222ms)
+ GET /menu/chocolate-photo-cake.jpg 404 in 384ms (next.js: 184ms, application-code: 199ms)
+ GET /menu/vanco-bento-cake.jpg 404 in 384ms (next.js: 208ms, application-code: 176ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-rosette-cake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/chocolate-number-cake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/chocolate-photo-cake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/vanco-bento-cake.jpg received null
+ GET /menu/chocolate-bento-cake.jpg 404 in 147ms (next.js: 14ms, application-code: 133ms)
+ GET /menu/brownie-bento-cake.jpg 404 in 151ms (next.js: 70ms, application-code: 81ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-bento-cake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/brownie-bento-cake.jpg received null
+ GET /menu 200 in 113ms (next.js: 9ms, application-code: 103ms)
+ GET /menu/chocolate-drip-cake.jpg 404 in 322ms (next.js: 24ms, application-code: 298ms)
+ GET /menu/chocolate-floral-cake.jpg 404 in 324ms (next.js: 58ms, application-code: 266ms)
+ GET /menu/chocolate-rosette-cake.jpg 404 in 330ms (next.js: 83ms, application-code: 246ms)
+ GET /menu/chocolate-number-cake.jpg 404 in 331ms (next.js: 114ms, application-code: 217ms)
+ GET /menu/chocolate-photo-cake.jpg 404 in 332ms (next.js: 140ms, application-code: 192ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-drip-cake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/chocolate-floral-cake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/chocolate-rosette-cake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/chocolate-number-cake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/chocolate-photo-cake.jpg received null
+ GET /menu/vanco-bento-cake.jpg 404 in 92ms (next.js: 20ms, application-code: 73ms)
+⨯ The requested resource isn't a valid image for /menu/vanco-bento-cake.jpg received null
+ GET /menu/chocolate-bento-cake.jpg 404 in 144ms (next.js: 16ms, application-code: 128ms)
+ GET /menu/brownie-bento-cake.jpg 404 in 148ms (next.js: 41ms, application-code: 106ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-bento-cake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/brownie-bento-cake.jpg received null
+ GET /menu/chocolate-drip-cake.jpg 404 in 243ms (next.js: 19ms, application-code: 224ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-drip-cake.jpg received null
+ GET /menu/chocolate-rosette-cake.jpg 404 in 249ms (next.js: 71ms, application-code: 178ms)
+ GET /menu/chocolate-floral-cake.jpg 404 in 249ms (next.js: 93ms, application-code: 156ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-rosette-cake.jpg received null
+ GET /menu/chocolate-number-cake.jpg 404 in 247ms (next.js: 162ms, application-code: 85ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-floral-cake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/chocolate-number-cake.jpg received null
+ GET /menu/chocolate-photo-cake.jpg 404 in 85ms (next.js: 17ms, application-code: 68ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-photo-cake.jpg received null
+ GET /menu/chocolate-fudge-bento-cake.jpg 404 in 126ms (next.js: 18ms, application-code: 108ms)
+ GET /menu/vanilla-bento-cake.jpg 404 in 127ms (next.js: 44ms, application-code: 83ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-fudge-bento-cake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/vanilla-bento-cake.jpg received null
+ GET /menu 200 in 98ms (next.js: 4ms, application-code: 93ms)
+ GET /menu/chocolate-drip-cake.jpg 404 in 396ms (next.js: 33ms, application-code: 363ms)
+ GET /menu/chocolate-floral-cake.jpg 404 in 397ms (next.js: 141ms, application-code: 256ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-drip-cake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/chocolate-floral-cake.jpg received null
+ GET /menu/chocolate-rosette-cake.jpg 404 in 401ms (next.js: 217ms, application-code: 185ms)
+ GET /menu/chocolate-number-cake.jpg 404 in 402ms (next.js: 241ms, application-code: 161ms)
+ GET /menu/chocolate-photo-cake.jpg 404 in 401ms (next.js: 264ms, application-code: 137ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-rosette-cake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/chocolate-number-cake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/chocolate-photo-cake.jpg received null
+ GET /menu/vanco-bento-cake.jpg 404 in 93ms (next.js: 22ms, application-code: 72ms)
+⨯ The requested resource isn't a valid image for /menu/vanco-bento-cake.jpg received null
+ GET /menu/chocolate-bento-cake.jpg 404 in 130ms (next.js: 11ms, application-code: 119ms)
+ GET /menu/brownie-bento-cake.jpg 404 in 131ms (next.js: 59ms, application-code: 72ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-bento-cake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/brownie-bento-cake.jpg received null
+ GET /menu/chocolate-fudge-bento-cake.jpg 404 in 113ms (next.js: 6ms, application-code: 108ms)
+ GET /menu/vanilla-bento-cake.jpg 404 in 119ms (next.js: 54ms, application-code: 65ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-fudge-bento-cake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/vanilla-bento-cake.jpg received null
+ GET /menu/baked-nutella-cheesecake.jpg 404 in 60ms (next.js: 8ms, application-code: 52ms)
+⨯ The requested resource isn't a valid image for /menu/baked-nutella-cheesecake.jpg received null
+ GET /menu/rum-tart.jpg 404 in 63ms (next.js: 6ms, application-code: 57ms)
+⨯ The requested resource isn't a valid image for /menu/rum-tart.jpg received null
+ GET /menu 200 in 116ms (next.js: 7ms, application-code: 109ms)
+ GET /menu/chocolate-drip-cake.jpg 404 in 391ms (next.js: 25ms, application-code: 366ms)
+ GET /menu/chocolate-floral-cake.jpg 404 in 393ms (next.js: 74ms, application-code: 319ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-drip-cake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/chocolate-floral-cake.jpg received null
+ GET /menu/chocolate-rosette-cake.jpg 404 in 399ms (next.js: 150ms, application-code: 249ms)
+ GET /menu/chocolate-number-cake.jpg 404 in 400ms (next.js: 173ms, application-code: 227ms)
+ GET /menu/chocolate-photo-cake.jpg 404 in 404ms (next.js: 197ms, application-code: 208ms)
+ GET /menu/vanco-bento-cake.jpg 404 in 404ms (next.js: 232ms, application-code: 173ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-rosette-cake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/chocolate-number-cake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/chocolate-photo-cake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/vanco-bento-cake.jpg received null
+ GET /menu/chocolate-bento-cake.jpg 404 in 277ms (next.js: 15ms, application-code: 262ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-bento-cake.jpg received null
+ GET /menu/brownie-bento-cake.jpg 404 in 285ms (next.js: 86ms, application-code: 200ms)
+⨯ The requested resource isn't a valid image for /menu/brownie-bento-cake.jpg received null
+ GET /menu/rum-tart.jpg 404 in 252ms (next.js: 106ms, application-code: 146ms)
+ GET /menu/baked-nutella-cheesecake.jpg 404 in 253ms (next.js: 137ms, application-code: 116ms)
+⨯ The requested resource isn't a valid image for /menu/rum-tart.jpg received null
+⨯ The requested resource isn't a valid image for /menu/baked-nutella-cheesecake.jpg received null
+ GET /menu/chocolate-fudge-bento-cake.jpg 404 in 151ms (next.js: 22ms, application-code: 130ms)
+ GET /menu/vanilla-bento-cake.jpg 404 in 153ms (next.js: 50ms, application-code: 103ms)
+⨯ The requested resource isn't a valid image for /menu/chocolate-fudge-bento-cake.jpg received null
+⨯ The requested resource isn't a valid image for /menu/vanilla-bento-cake.jpg received null
+ GET / 200 in 231ms (next.js: 183ms, application-code: 48ms)
+[browser] Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+✓ Compiled in 100ms
+ GET / 200 in 207ms (next.js: 136ms, application-code: 72ms)
+ GET / 200 in 29ms (next.js: 3ms, application-code: 26ms)
+ GET /menu 200 in 363ms (next.js: 131ms, application-code: 232ms)
+ GET /menu 200 in 130ms (next.js: 5ms, application-code: 124ms)
+ GET /menu/vanilla-cupcake.jpg 404 in 76ms (next.js: 22ms, application-code: 54ms)
+ GET /menu 200 in 142ms (next.js: 22ms, application-code: 120ms)
+ GET /menu/vanilla-cupcake.jpg 404 in 71ms (next.js: 6ms, application-code: 65ms)
+⨯ The requested resource isn't a valid image for /menu/vanilla-cupcake.jpg received null
+✓ Compiled in 75ms
+ GET / 200 in 388ms (next.js: 136ms, application-code: 252ms)
+ GET /menu 200 in 388ms (next.js: 285ms, application-code: 103ms)
+ GET / 200 in 57ms (next.js: 3ms, application-code: 54ms)
+ GET /menu 200 in 35ms (next.js: 3ms, application-code: 32ms)
+ GET /menu 200 in 221ms (next.js: 4ms, application-code: 217ms)
+ GET /menu 200 in 109ms (next.js: 4ms, application-code: 105ms)
+ GET /menu 200 in 147ms (next.js: 8ms, application-code: 139ms)
+ GET / 200 in 23ms (next.js: 5ms, application-code: 18ms)
+[browser] Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+ GET /menu 200 in 38ms (next.js: 4ms, application-code: 34ms)
+ GET /menu 200 in 170ms (next.js: 6ms, application-code: 164ms)
+ GET /menu 200 in 116ms (next.js: 4ms, application-code: 112ms)
+ GET /menu 200 in 72ms (next.js: 5ms, application-code: 67ms)
+ GET /menu 200 in 73ms (next.js: 34ms, application-code: 38ms)
+ GET / 200 in 26ms (next.js: 4ms, application-code: 22ms)
+ GET /menu 200 in 1029ms (next.js: 304ms, application-code: 726ms)
+ GET / 200 in 1057ms (next.js: 158ms, application-code: 898ms)
+ GET /menu 200 in 1074ms (next.js: 212ms, application-code: 862ms)
+ GET / 200 in 865ms (next.js: 8ms, application-code: 856ms)
+ GET /menu 200 in 873ms (next.js: 38ms, application-code: 835ms)
+ GET /menu 200 in 874ms (next.js: 10ms, application-code: 864ms)
+ GET / 200 in 464ms (next.js: 71ms, application-code: 393ms)
+ GET / 200 in 94ms (next.js: 57ms, application-code: 36ms)
+ GET / 200 in 261ms (next.js: 4ms, application-code: 257ms)
+ GET / 200 in 109ms (next.js: 9ms, application-code: 101ms)
+✓ Compiled in 228ms
+ GET / 200 in 278ms (next.js: 175ms, application-code: 104ms)
+ GET / 200 in 42ms (next.js: 5ms, application-code: 37ms)
+ GET / 200 in 234ms (next.js: 10ms, application-code: 224ms)
+ GET / 200 in 78ms (next.js: 3ms, application-code: 75ms)
+ GET / 200 in 108ms (next.js: 4ms, application-code: 103ms)
+✓ Compiled in 334ms
+ GET / 200 in 355ms (next.js: 302ms, application-code: 53ms)
+ GET / 200 in 239ms (next.js: 7ms, application-code: 232ms)
+ GET / 200 in 117ms (next.js: 4ms, application-code: 113ms)
+✓ Compiled in 534ms
+ GET / 200 in 2.8s (next.js: 1345ms, application-code: 1475ms)
+✓ Compiled in 68ms
+ GET / 200 in 244ms (next.js: 173ms, application-code: 70ms)
+✓ Compiled in 700ms
+ GET / 200 in 331ms (next.js: 189ms, application-code: 143ms)
+ GET / 200 in 50ms (next.js: 7ms, application-code: 43ms)
+ GET /kitchen/kitchen-1.jpg 404 in 1046ms (next.js: 407ms, application-code: 639ms)
+ GET /kitchen/kitchen-2.jpg 404 in 1069ms (next.js: 524ms, application-code: 545ms)
+ GET /kitchen/kitchen-3.jpg 404 in 1075ms (next.js: 579ms, application-code: 496ms)
+ GET /kitchen/kitchen-4.jpg 404 in 1087ms (next.js: 900ms, application-code: 187ms)
+⨯ The requested resource isn't a valid image for /kitchen/kitchen-4.jpg received null
+⨯ The requested resource isn't a valid image for /kitchen/kitchen-1.jpg received null
+⨯ The requested resource isn't a valid image for /kitchen/kitchen-3.jpg received null
+⨯ The requested resource isn't a valid image for /kitchen/kitchen-2.jpg received null
+ GET / 200 in 123ms (next.js: 7ms, application-code: 115ms)
+ GET / 200 in 114ms (next.js: 4ms, application-code: 110ms)
+ GET /kitchen/kitchen-1.jpg 404 in 247ms (next.js: 15ms, application-code: 232ms)
+ GET /kitchen/kitchen-2.jpg 404 in 249ms (next.js: 43ms, application-code: 205ms)
+ GET /kitchen/kitchen-3.jpg 404 in 252ms (next.js: 67ms, application-code: 185ms)
+⨯ The requested resource isn't a valid image for /kitchen/kitchen-1.jpg received null
+⨯ The requested resource isn't a valid image for /kitchen/kitchen-2.jpg received null
+ GET /kitchen/kitchen-4.jpg 404 in 258ms (next.js: 169ms, application-code: 89ms)
+⨯ The requested resource isn't a valid image for /kitchen/kitchen-3.jpg received null
+⨯ The requested resource isn't a valid image for /kitchen/kitchen-4.jpg received null
+ GET / 200 in 481ms (next.js: 52ms, application-code: 429ms)
+ GET /menu 200 in 3.0s (next.js: 1659ms, application-code: 1294ms)
+[browser] Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+ GET / 200 in 901ms (next.js: 483ms, application-code: 419ms)
+ GET /menu 200 in 161ms (next.js: 41ms, application-code: 120ms)
+ GET / 200 in 68ms (next.js: 14ms, application-code: 54ms)
+✓ Compiled in 480ms
+ GET / 200 in 659ms (next.js: 483ms, application-code: 176ms)
+ GET / 200 in 722ms (next.js: 9ms, application-code: 713ms)
+ GET / 200 in 209ms (next.js: 8ms, application-code: 200ms)
+✓ Compiled in 278ms
+ GET / 200 in 595ms (next.js: 448ms, application-code: 147ms)
+ GET / 200 in 54ms (next.js: 5ms, application-code: 48ms)
+ GET / 200 in 2.4s (next.js: 8ms, application-code: 2.4s)
+ GET / 200 in 265ms (next.js: 43ms, application-code: 222ms)
+✓ Compiled in 286ms
+ GET / 200 in 489ms (next.js: 320ms, application-code: 169ms)
+ GET / 200 in 91ms (next.js: 3ms, application-code: 88ms)
+ GET / 200 in 50ms (next.js: 4ms, application-code: 46ms)
+ GET / 200 in 237ms (next.js: 5ms, application-code: 233ms)
+ GET / 200 in 94ms (next.js: 4ms, application-code: 90ms)
+ GET / 200 in 374ms (next.js: 86ms, application-code: 288ms)
+ GET /menu 200 in 1572ms (next.js: 962ms, application-code: 610ms)
+[browser] Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+ GET / 200 in 1473ms (next.js: 280ms, application-code: 1193ms)
+ POST /api/contact 404 in 380ms (next.js: 225ms, application-code: 155ms)
+ POST /api/contact 404 in 125ms (next.js: 28ms, application-code: 97ms)
+[?25h
